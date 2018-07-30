@@ -1,2 +1,3 @@
 # Hello-world
-Beginner of GitHub
+New beginner of GitHub
+Hey there, I am using GitHub. 
